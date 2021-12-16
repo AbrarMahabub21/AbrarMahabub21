@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abrar Mahabub Nowrid
-- 👀 I’m interested in coding and gaming...
+- 👀 I’m interested in coding and web development 
 - 🌱 I’m currently learning C programming and game development from Unity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email: abrar.nowrid@gmail.com ; Mobile : 01979626675
