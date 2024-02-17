@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👨‍💻 All of my projects are available at [Github](Github)
+- 👨‍💻 All of my projects are available at [[Github](Github)](https://github.com/AbrarMahabub21?tab=repositories)
 
 - 📫 How to reach me **abrar.nowrid@gmail.com**
 
