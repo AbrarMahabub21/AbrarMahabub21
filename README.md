@@ -1,9 +1,21 @@
 <h1 align="center">Hi 👋, I'm Abrar Mahabub</h1>
 <h3 align="center">A passionate software developer from Bangladesh</h3>
-<img align = "center" alt= "coding" width = "400" src = "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+<img align = "right" alt= "coding" width = "400" src = "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abrarmahabub21&label=Profile%20views&color=0e75b6&style=flat" alt="abrarmahabub21" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abrarmahabub21" alt="abrarmahabub21" /></a> </p>
+
+- 🌱 I’m currently learning **MERN stack**
+
+- 👨‍💻 All of my projects are available at [Github](Github)
+
+- 📫 How to reach me **abrar.nowrid@gmail.com**
+
+- 📄 Know about my experiences [https://rose-sheeree-7.tiiny.site](https://rose-sheeree-7.tiiny.site)
+
+- ⚡ Fun fact **I love competitive FPS shooting game**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,4 +34,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abrarmahabub21&show_icons=true&locale=en" alt="abrarmahabub21" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abrarmahabub21&" alt="abrarmahabub21" /></p>
-
