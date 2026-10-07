@@ -1,4 +1,7 @@
 <h1 align="center">Hi, I'm Abrar Mahabub 👋</h1>
+<p align="center">
+  <a href="https://github.com/AbrarMahabub21"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Master+of+Software+Engineering+student+%40+UQ;Building+.NET+APIs+and+React+apps;Open+to+software+internships+in+Brisbane" alt="Typing intro" /></a>
+</p>
 <p align="center">Master of Software Engineering student at UQ, Brisbane. Open to software internships.</p>
 
 <p align="center">
@@ -33,9 +36,18 @@
 ## GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AbrarMahabub21&show_icons=true&hide_border=true&count_private=false" alt="GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=AbrarMahabub21&hide_border=true" alt="GitHub streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AbrarMahabub21&show_icons=true&hide_border=true&theme=github_dark&title_color=2F81F7&icon_color=2F81F7" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=AbrarMahabub21&show_icons=true&hide_border=true&theme=default&title_color=2F81F7&icon_color=2F81F7" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AbrarMahabub21&hide_border=true&theme=github-dark-blue" />
+    <img height="165" src="https://streak-stats.demolab.com?user=AbrarMahabub21&hide_border=true&theme=default" alt="GitHub streak" />
+  </picture>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbrarMahabub21&layout=compact&hide_border=true" alt="Top languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AbrarMahabub21&layout=compact&hide_border=true&theme=github_dark&title_color=2F81F7" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbrarMahabub21&layout=compact&hide_border=true&theme=default&title_color=2F81F7" alt="Top languages" />
+  </picture>
 </p>
