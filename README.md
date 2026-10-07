@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Abrar Mahabub 👋</h1>
 <p align="center">
-  <a href="https://github.com/AbrarMahabub21"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Master+of+Software+Engineering+student+%40+UQ;Building+.NET+APIs+and+React+apps;Open+to+software+internships+in+Brisbane" alt="Typing intro" /></a>
+  <a href="https://github.com/AbrarMahabub21"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Master+of+Software+Engineering+student+%40+UQ;Building+.NET+APIs+and+React+apps;ML+with+PyTorch+and+computer+vision;Open+to+software+and+AI+internships+in+Brisbane" alt="Typing intro" /></a>
 </p>
-<p align="center">Master of Software Engineering student at UQ, Brisbane. Open to software internships.</p>
+<p align="center">Master of Software Engineering student at UQ, Brisbane. Open to software and AI internships.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abrar-mahabub"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
